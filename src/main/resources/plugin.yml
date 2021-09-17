@@ -1,0 +1,5 @@
+name: MysqlMap
+version: '${project.version}'
+main: me.jinou.mysqlmap.MysqlMap
+author: Jin_ou
+api-version: 1.16
