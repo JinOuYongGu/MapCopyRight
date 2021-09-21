@@ -1,5 +1,3 @@
-syncKey:
-  - "版权所有: {player}"
-other-syncKey:
-  - "版权所有: {player}"
-  - "只有地图的所有者可以复制地图"
+keyLore: "§a版权所有: §b{player}\n§a地图id: §b{mapId}"
+map-not-locked: "§b[系统] §a只能复制已上锁的地图 将地图和玻璃板置于制图台可上锁"
+map-no-copyright: "§b[系统] §a该地图版权为其他玩家所有"

@@ -1,5 +1,5 @@
-name: MysqlMap
+name: MapCopyRight
 version: '${project.version}'
-main: me.jinou.mysqlmap.MysqlMap
+main: me.jinou.mapcopyright.MapCopyRight
 author: Jin_ou
 api-version: 1.16
